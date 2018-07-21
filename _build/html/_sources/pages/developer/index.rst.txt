@@ -1,0 +1,17 @@
+.. CINEMA documentation master file, created by
+   sphinx-quickstart on Fri Jul 20 12:28:27 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Developer Docs
+===============
+
+.. toctree::
+   :maxdepth: 5
+   :caption: Contents:
+
+   suites/FirstSteps/README.rst
+   suites/API/README.rst
+   suites/Apps/README.rst
+   suites/Backend/README.rst
+   suites/Wordpress/README.rst
